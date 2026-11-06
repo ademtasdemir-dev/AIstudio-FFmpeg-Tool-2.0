@@ -1,0 +1,6 @@
+{
+  "name": "FFmpeg Python Tool Studio",
+  "description": "Modulares FFmpeg- & Python-Werkzeug mit interaktivem Modul-Builder, Code-Generierung, Parametertester und Videoverarbeitung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
